@@ -1,0 +1,7 @@
+{
+  "name": "Ficha14 - Palpites Inteligentes",
+  "description": "Aplicativo profissional de palpites de futebol com geração de fichas de 14 jogos, análise CustomBet e inteligência artificial baseada em dados reais.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

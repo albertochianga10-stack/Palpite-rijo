@@ -1,0 +1,15 @@
+
+{
+  "name": "ficha14-palpites",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.34.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "scripts": {
+    "build": "echo 'Build process running... (No-op as this is a browser-ready ESM app)'",
+    "start": "npx serve ."
+  }
+}
